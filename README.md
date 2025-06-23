@@ -3,8 +3,6 @@
 🎓 Final-year Bachelor of Computer Science @ RMIT University  
 💻 Passionate about autonomous systems, AR development, and practical robotics
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 [GameSight AR](https://github.com/kdevgado/redbackbots-gamesight)
@@ -20,8 +18,6 @@
 - Developed GPS-free autonomous drone landing
 - Used ROS 2, YOLOv8, Hough Transform & Cartographer SLAM
 - Achieved 98% detection accuracy + real-time performance
-
----
 
 ## 🧠 Currently Learning
 - Advanced AI for embedded systems
